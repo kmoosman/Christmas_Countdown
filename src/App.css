@@ -1,0 +1,42 @@
+.App {
+    text-align: center;
+    font-size: 35px;
+
+    
+    /* margin-top: 1%; */
+}
+
+.App-title {
+    font-size: 50px;
+    color: rgb(148, 29, 8);
+    text-shadow: 2px 2px #2c2828;
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds{
+    display: inline;
+    margin: 10px;
+    color: rgb(3, 85, 3);
+    text-shadow: 1px 1px #2c2828;
+}
+
+.Deadline-input {
+    font-size: 25px;
+    margin: 5px;
+}
+
+img {
+    margin: auto;
+    border-radius: 5px;
+    
+}
+
+.CarouselPics {
+   margin-bottom: 5%;
+}
+
+#root2 {
+    background-image: url("https://ak7.picdn.net/shutterstock/videos/2681507/thumb/1.jpg");
+    background-repeat: none;
+    background-size: cover;
+   
+}
